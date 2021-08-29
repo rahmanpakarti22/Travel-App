@@ -1,0 +1,93 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Splashscreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor" tools:targetApi="l">@color/color_10</item>
+        <item name="android:windowBackground">@color/color_10</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+
+    <style name="Getstarted" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:screenOrientation">portrait</item>
+        <item name="android:windowBackground">@drawable/obj</item>
+    </style>
+
+    <style name="Register_satu" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor" tools:targetApi="l">#F5F5F5</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+
+    <style name="Register_dua" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor" tools:targetApi="l">@color/color_9</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+
+    <style name="Login" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowBackground">@color/color_12</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+
+    <style name="Login_sukses" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowBackground">#5B4DFF</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+
+    <style name="sukses_membayar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+
+    <style name="checkout" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowBackground">@drawable/bc_tiket_cehckout</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+
+    <style name="suksesact" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowBackground">#F5F5F5</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+
+    <style name="Dashboard" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor" tools:targetApi="l">#F5F5F5</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+
+    <style name="MyProfile" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor" tools:targetApi="l">#F5F5F5</item>
+        <item name="android:windowBackground">#071440</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+
+    <style name="MyEditProfile" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor" tools:targetApi="l">@color/color_13</item>
+        <item name="android:windowBackground">@color/color_13</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+
+    <style name="MyProfile1Menu" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor" tools:targetApi="l">@color/white</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+
+    <style name="MenuJogja" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+
+    <style name="MenuJatim" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+
+    <style name="tiketDetail" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Login.SuksesLogAct">
+
+    <LinearLayout
+        android:id="@+id/linearLayout20"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/_12sdp"
+        android:layout_marginRight="@dimen/_12sdp"
+        android:layout_marginBottom="@dimen/_70sdp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:layout_editor_absoluteX="29dp">
+
+        <ImageView
+            android:id="@+id/logotransaksisukses"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_261sdp"
+            android:contentDescription="@string/ilus"
+            android:src="@drawable/login_succes"
+            tools:ignore="ImageContrastCheck" />
+
+        <TextView
+            android:id="@+id/textlogo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_11sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:gravity="center"
+            android:text="@string/hore_kamu_kembali"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_21ssp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/selamat_datang"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_11sdp"
+            android:layout_marginTop="@dimen/_2sdp"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_29ssp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

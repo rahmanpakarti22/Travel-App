@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ilus">ilus</string>
+    <string name="pesona_bumi_indonesia">PESONA BUMI INDONESIA</string>
+    <string name="kemas_bajumu_dan_ikutlah_berlibur_bersamaku">Kemas Bajumu dan Ikutlah Berlibur Bersamaku</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="belum_punya_akun">Belum punya Akun?</string>
+    <string name="registrasi">REGISTRASI</string>
+    <string name="lanjut">LANJUT</string>
+    <string name="nama">Nama</string>
+    <string name="no_telpon">No Telpon</string>
+    <string name="domisili">Domisili</string>
+    <string name="status">Status</string>
+    <string name="daftarkan">Daftarkan</string>
+    <string name="rp">Rp</string>
+    <string name="saldo">SALDO</string>
+    <string name="mau_kemana_nih">MAU KEMANA NIH?</string>
+    <string name="wow_wow_woow_transaksi_kamu_dah_sukses_nih">Wow Wow Woow Transaksi Kamu Dah Sukses Nih</string>
+    <string name="kembali_ke_dasboard">Kembali Ke Dasboard</string>
+    <string name="anda_mendapatkan_voucher_sebesar_rp_560_000_00">Anda Mendapatkan Voucher Sebesar Rp 560.000,00</string>
+    <string name="hore_kamu_kembali">Hore Kamu Kembali</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="jam_buka">Jam Buka</string>
+    <string name="festival">Festival</string>
+    <string name="wifi">Wifi</string>
+    <string name="photo_spot">Photo Spot</string>
+    <string name="harga_tiket">Harga Tiket</string>
+    <string name="beli_tiket">beli tiket</string>
+    <string name="tiket_checkout">Tiket Checkout</string>
+    <string name="total_tiket_idr">TOTAL TIKET (IDR)</string>
+    <string name="saldo_ando_idr">SALDO ANDO (IDR) :</string>
+    <string name="total_harga">Total Harga:</string>
+    <string name="bayar">bayar</string>
+    <string name="saldo_idr">SALDO IDR:</string>
+    <string name="tiketku">Tiketku</string>
+    <string name="edit_profile">EDIT PROFILE</string>
+    <string name="simpan">SIMPAN</string>
+</resources>
